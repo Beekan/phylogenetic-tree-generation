@@ -1,0 +1,16 @@
+Course: COMPSCI 260
+Problem Set: 5
+Name: Divya Koyyalagunta
+NetID: dk160
+Extension (yes/no): no
+Final Submission (yes/no): yes
+Estimated total time spent over the two weeks working on this problem set, in hours: 25
+
+------------
+
+The above MUST be updated prior to submission in order to receive
+credit for your work (note: the time estimate will not factor into
+your score or class grade in any way; we're just trying to gauge
+the range of times that students spend to complete each problem
+set, which will help us even out any imbalances in the problem
+sets in the future).
