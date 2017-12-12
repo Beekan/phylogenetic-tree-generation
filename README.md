@@ -6,4 +6,4 @@ In this project I implemented the Neighbor-Joining and UPGMA algorithms. I used 
 
 The SARS virus crossed species to enter humans, so this project helped identify from which species that "jump" occurred.
 
-![phylip tree](/example_phylip_tree.png)
+![phylip tree](images/example_phylip_tree.png)
