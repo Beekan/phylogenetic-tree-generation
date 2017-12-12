@@ -1,4 +1,4 @@
-# phylogenetic-tree-generation
+# Phylogenetic Tree Generation
 
 In this project I implemented the Neighbor-Joining and UPGMA algorithms. I used Neighbor-Joining to construct phylogenetic trees from protein sequence data. 
 
