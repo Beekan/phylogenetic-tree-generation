@@ -1,3 +1,3 @@
 # phylogenetic-tree-generation
 
-![phylip tree](example_phylip_tree.tiff)
+![phylip tree](example_phylip_tree.png)
